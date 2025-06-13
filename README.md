@@ -17,7 +17,7 @@ This project aims to predict house prices in the Boston area using a machine lea
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.9 and above
 - pip
 
 ### Clone the Repository
