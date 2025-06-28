@@ -17,7 +17,8 @@ This project aims to predict house prices in the Boston area using a machine lea
 
 ### Prerequisites
 
-- Python 3.13.3 default 
+- Python 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
 - pip
 
 ### Clone the Repository
